@@ -4,8 +4,32 @@
     --secondary: #F65005;
     --light: #F7F8FC;
     --dark: #111111;
-}
-
+}    
+@media (min-width: 1340px){
+    .vvv  {
+        margin-top: -91px;
+    }
+  }
+  @media (min-width: 1340px){
+    .qqq  {
+        margin-top: -254px;
+    }
+  }
+  @media (min-width: 1340px){
+    .tttt  {
+        margin-top: -136px;
+    }
+  }
+  @media (min-width: 1340px){
+    .gfgf  {
+        margin-top: -271px;
+    }
+  }
+  @media (min-width: 1340px){
+    .blen  {
+        margin-top: -516px;
+    }
+  }
 .back-to-top {
     position: fixed;
     display: none;
