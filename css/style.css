@@ -20,15 +20,33 @@
         margin-top: -136px;
     }
   }
-  @media (min-width: 1340px){
+  /* @media (min-width: 1340px){
     .gfgf  {
         margin-top: -271px;
     }
-  }
+  } */
   @media (min-width: 1340px){
     .blen  {
         margin-top: -516px;
     }
+  }     
+  @media (min-width: 1340px){
+    .fdfd  {
+        height: 700px;
+    }
+  } 
+  @media (min-width: 1340px){
+    .tuka  {
+        height: 322px;
+    }
+  } 
+  @media (min-width: 1340px){
+    .iuy  {
+        height: 430px;
+    }
+  }
+  .nug{
+    height: 60px;
   }
 .back-to-top {
     position: fixed;
