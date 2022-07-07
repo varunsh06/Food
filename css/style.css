@@ -45,6 +45,23 @@
         height: 430px;
     }
   }
+  @media (min-width: 1340px){
+    .taka  {
+        margin-top: -100px;
+    }
+    .baka{
+        height: 531px;
+    }
+    .kura{
+        margin-top: -148px;
+    }
+    .passat{
+        height: 531px;
+    }
+  }
+  p{
+    text-align: justify;
+  }
   .nug{
     height: 60px;
   }
