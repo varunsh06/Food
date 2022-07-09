@@ -5,6 +5,17 @@
     --light: #F7F8FC;
     --dark: #111111;
 }   
+.wha{
+    height: 82px;
+    position: absolute;
+    right: 12.281px;
+    bottom: 0px;
+    top: -32px;
+    padding-bottom: 0px;
+    margin-bottom: 0px
+}
+ 
+ 
 .xcxc{
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -246,13 +257,16 @@
         position: relative;
         min-height: 450px;
     }
-    
+   
     #header-carousel .carousel-item img {
         position: absolute;
         width: 100%;
         height: 100%;
         object-fit: cover;
     }
+    .lo{
+        top:   712px !important ;
+       }
 }
 
 .page-header {
@@ -260,6 +274,7 @@
     padding-bottom: 6rem;
     background: url(../img/carousel-1.jpg) top right no-repeat;
     background-size: cover;
+    background-position-x: unset;
 }
 
 .breadcrumb-item+.breadcrumb-item::before {
